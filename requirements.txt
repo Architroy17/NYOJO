@@ -1,0 +1,11 @@
+pyaudio
+whisper @ git+https://github.com/openai/whisper.git
+pynput
+google-generativeai
+gtts
+pydub
+pygame
+requests
+beautifulsoup4
+newsapi-python
+word2number
